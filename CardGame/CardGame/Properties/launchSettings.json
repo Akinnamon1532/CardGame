@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CardsProject": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\milkd\\source\\repos\\bkinnamon1\\CNSE4323-Project-1\\CardsProject\\CardsProject.sln"
+    }
+  }
+}
